@@ -10,6 +10,11 @@
       "StackName": "amplify-nicolascageoverload-dev-161925",
       "StackId": "arn:aws:cloudformation:us-west-1:622543634155:stack/amplify-nicolascageoverload-dev-161925/5da6cae0-2983-11ed-ad9c-0655d9c6878b",
       "AmplifyAppId": "d2540c31h77nxm"
+    },
+    "categories": {
+      "auth": {
+        "nicolascageoverload72deeaad": {}
+      }
     }
   }
 }
