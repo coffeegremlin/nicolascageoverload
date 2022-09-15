@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "nicolascageoverload72deeaad": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2540c31h77nxm",
+          "type": "manual"
+        }
       }
     }
   }
